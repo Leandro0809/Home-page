@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+* {
+
+    margin: 0; 
+    font-family: 'Open sans', sans-serif;
+    background-color:#4b4545
+}
+
+.divminhafoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.minhafoto {
+    width: 350px;
+}
+
+.link {
+    text-decoration: none;
+}
+
